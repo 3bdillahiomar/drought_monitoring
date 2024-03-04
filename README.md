@@ -8,3 +8,6 @@ Drought poses a significant challenge to countries in the horn of Africa causing
 Drought monitoring is a crucial aspect of drought management, as it provides decision -makers with the information needed to implement mitigation strategies, allocate resources, and support affected communities. Advances in technology, including the use of satellite imagery, remote sensing, and sophisticated modeling techniques, have enhanced the accuracy and efficiency of drought monitoring systems in recent years.
 
 ![image](https://github.com/3bdillahiomar/drought_monitoring/assets/128916651/dd8a133d-2c73-48c6-bdfb-cfdcdf995013)
+
+
+This project, part of the Scientific Geocomputing class at the University of Twente, leveraged in-situ and satellite data for drought monitoring. By integrating diverse data, it aimed to refine drought predictions and responses, showcasing the impact of geocomputing on environmental management.
